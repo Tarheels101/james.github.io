@@ -1,2 +1,2 @@
-# james.github.com
+# james.github.io
 my website
